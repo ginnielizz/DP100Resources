@@ -19,6 +19,7 @@
 - [Compare the machine learning products and technologies from Microsoft](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning)
 - [Azure Machine Learning FAQ](https://github.com/uglide/azure-content/blob/master/articles/machine-learning/machine-learning-faq.md)
 - [What is an Azure ML Workspace?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-workspace)
+- [ML Algorithm Cheat Sheet](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
 - [How to select algorithms with AML](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-select-algorithms)
 - [Azure ML SDK for Python](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/?view=azure-ml-py)
 - [Azure ML SDK for R](https://azure.github.io/azureml-sdk-for-r/index.html)
@@ -31,6 +32,8 @@
 - [Example pipelines & datasets for Azure Machine Learning designer](https://docs.microsoft.com/en-us/azure/machine-learning/samples-designer)
 - [Algorithm & module reference for Azure Machine Learning designer](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/module-reference)
 - [Evaluate model module and information on metrics used](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/evaluate-model)
+- [AI Experiment Gallery](https://gallery.azure.ai/experiments)
+- 
 
 ## Module 3:
 - [Several ways to train your models with Azure ML](https://docs.microsoft.com/en-us/azure/machine-learning/concept-train-machine-learning-model)
@@ -45,8 +48,10 @@
 - [Create and register datastores](https://docs.microsoft.com/en-gb/azure/machine-learning/how-to-access-data#create-and-register-datastores)
 - [Version and track datasets in experiments](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-version-track-datasets#register-and-retrieve-dataset-versions)
 - [Create datasets with Azure Open Datasets](https://docs.microsoft.com/en-gb/azure/machine-learning/how-to-create-register-datasets#create-datasets-with-azure-open-datasets)
+- [Understanding Conda and Pip](https://www.anaconda.com/blog/understanding-conda-and-pip)
 
 ## Module 5:
+
 - [Understanding conda and pip](https://www.anaconda.com/understanding-conda-and-pip/)
 - [What are Azure ML Environments](https://docs.microsoft.com/en-us/azure/machine-learning/concept-environments)
 - [Create and use virtual environments](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-environments)
@@ -55,12 +60,15 @@
 - [Set up compute targets for training](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-set-up-training-targets)
 - [Manage compute with Python SDK](https://docs.microsoft.com/en-gb/python/api/azureml-core/azureml.core.compute.amlcompute.amlcompute?view=azure-ml-py)
 - [Use secrets in training runs with Azure Key Vault](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-secrets-in-runs)
+- [AMLCompute Class](https://docs.microsoft.com/en-gb/python/api/azureml-core/azureml.core.compute.amlcompute.amlcompute?view=azure-ml-py)
 
 ## Module 6:
 - [What are Azure ML Pipelines?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines)
 - [Pipelines in Designer](https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer#pipeline)
 - [How to schedule pipelines](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-schedule-pipelines)
+- [ScheduleRecurrence Class](https://docs.microsoft.com/en-us/python/api/azureml-pipeline-core/azureml.pipeline.core.schedule.schedulerecurrence?view=azure-ml-py)
 - [Best practices when using Azure ML Pipelines](https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines#best-practices-when-using-pipelines)
+- [steps Package](https://docs.microsoft.com/en-gb/python/api/azureml-pipeline-steps/azureml.pipeline.steps?view=azure-ml-py)
 
 ## Module 7:
 - [Deploy Models with Azure ML](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-and-where)
@@ -92,6 +100,7 @@
 - [Collect and evaluate data for model deployed on AKS](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-enable-data-collection)
 - [How to monitor datasets](https://docs.microsoft.com/en-gb/azure/machine-learning/how-to-monitor-datasets)
 - Channel 9 video on [Data drift detection with Azure ML](https://channel9.msdn.com/Shows/AI-Show/Drift)
+- Cheat sheets for Kusto Query Language "KQL" from [SQL](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/sqlcheatsheet), [Splunk](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/splunk-cheat-sheet)
 
 
 
