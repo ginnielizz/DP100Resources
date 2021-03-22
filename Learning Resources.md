@@ -102,6 +102,26 @@
 - Channel 9 video on [Data drift detection with Azure ML](https://channel9.msdn.com/Shows/AI-Show/Drift)
 - Cheat sheets for Kusto Query Language "KQL" from [SQL](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/sqlcheatsheet), [Splunk](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/splunk-cheat-sheet)
 
+## Further learning
+- [Team Data Science Process](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
+- [MLOps with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment)
+- [Power BI Dataflows](https://docs.microsoft.com/en-us/power-bi/service-dataflows-create-use)
+- [Automated Machine Learning in Power BI](https://docs.microsoft.com/en-us/power-bi/service-machine-learning-automated)
+- [Cognitive Services in Power BI](https://docs.microsoft.com/en-us/power-bi/service-cognitive-services)
+- [Azure Machine Learning Integration in Power BI](https://docs.microsoft.com/en-us/power-bi/service-machine-learning-integration)
+- [Model Fairness in Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-fairness-ml)
+- [Differential Privacy with WhiteNoise](https://docs.microsoft.com/en-us/azure/machine-learning/concept-differential-privacy)
+
+## External data and compute
+- Learning path - [Data engineering with Azure Databricks
+](https://docs.microsoft.com/en-us/learn/paths/data-engineer-azure-databricks/)
+- [Azure Databricks documentation](https://docs.microsoft.com/en-us/azure/databricks/)
+- Authenticating to Azure Databricks attached compute using [personal access tokens](https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/authentication) or [Azure Active Directory](https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/aad/service-prin-aad-token)
+- [Troubleshoot self-hosted integration runtime
+](https://docs.microsoft.com/en-us/azure/data-factory/self-hosted-integration-runtime-troubleshoot-guide)
+- [Creating a self-hosted integration runtime](https://docs.microsoft.com/en-us/azure/data-factory/create-self-hosted-integration-runtime)
+- [Quickstart: Create a data factory by using the Azure Data Factory UI
+](https://docs.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-portal)
 
 
 
