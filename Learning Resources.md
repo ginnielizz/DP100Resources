@@ -33,7 +33,6 @@
 - [Algorithm & module reference for Azure Machine Learning designer](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/module-reference)
 - [Evaluate model module and information on metrics used](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/evaluate-model)
 - [AI Experiment Gallery](https://gallery.azure.ai/experiments)
-- 
 
 ## Module 3:
 - [Several ways to train your models with Azure ML](https://docs.microsoft.com/en-us/azure/machine-learning/concept-train-machine-learning-model)
@@ -61,6 +60,7 @@
 - [Manage compute with Python SDK](https://docs.microsoft.com/en-gb/python/api/azureml-core/azureml.core.compute.amlcompute.amlcompute?view=azure-ml-py)
 - [Use secrets in training runs with Azure Key Vault](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-secrets-in-runs)
 - [AMLCompute Class](https://docs.microsoft.com/en-gb/python/api/azureml-core/azureml.core.compute.amlcompute.amlcompute?view=azure-ml-py)
+- [Train a model by using a custom Docker image](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-train-with-custom-image)
 
 ## Module 6:
 - [What are Azure ML Pipelines?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines)
@@ -111,17 +111,15 @@
 - [Azure Machine Learning Integration in Power BI](https://docs.microsoft.com/en-us/power-bi/service-machine-learning-integration)
 - [Model Fairness in Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-fairness-ml)
 - [Differential Privacy with WhiteNoise](https://docs.microsoft.com/en-us/azure/machine-learning/concept-differential-privacy)
+- [ONNX and Azure Machine Learning: Create and accelerate ML models](https://docs.microsoft.com/en-us/azure/machine-learning/concept-onnx)
 
 ## External data and compute
-- Learning path - [Data engineering with Azure Databricks
-](https://docs.microsoft.com/en-us/learn/paths/data-engineer-azure-databricks/)
+- Learning path - [Data engineering with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-engineer-azure-databricks/)
 - [Azure Databricks documentation](https://docs.microsoft.com/en-us/azure/databricks/)
 - Authenticating to Azure Databricks attached compute using [personal access tokens](https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/authentication) or [Azure Active Directory](https://docs.microsoft.com/en-us/azure/databricks/dev-tools/api/latest/aad/service-prin-aad-token)
-- [Troubleshoot self-hosted integration runtime
-](https://docs.microsoft.com/en-us/azure/data-factory/self-hosted-integration-runtime-troubleshoot-guide)
+- [Troubleshoot self-hosted integration runtime](https://docs.microsoft.com/en-us/azure/data-factory/self-hosted-integration-runtime-troubleshoot-guide)
 - [Creating a self-hosted integration runtime](https://docs.microsoft.com/en-us/azure/data-factory/create-self-hosted-integration-runtime)
-- [Quickstart: Create a data factory by using the Azure Data Factory UI
-](https://docs.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-portal)
+- [Quickstart: Create a data factory by using the Azure Data Factory UI](https://docs.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-portal)
 
 
 
