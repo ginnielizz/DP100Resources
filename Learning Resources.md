@@ -86,6 +86,7 @@
 - [Tutorial: Forecast bike sharing demand with Automated ML](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-automated-ml-forecast)
 
 ## Module 9:
+- [What is differential privacy in machine learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-differential-privacy)
 - [Model Interpretability in Azure ML](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-interpretability)
 - [When to use which Model Explainer](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-interpretability#supported-interpretability-techniques)
 - [Explain ML models and predictions](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-interpretability-aml)
