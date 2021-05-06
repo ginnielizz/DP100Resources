@@ -112,6 +112,7 @@
 - [Model Fairness in Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-fairness-ml)
 - [Differential Privacy with WhiteNoise](https://docs.microsoft.com/en-us/azure/machine-learning/concept-differential-privacy)
 - [ONNX and Azure Machine Learning: Create and accelerate ML models](https://docs.microsoft.com/en-us/azure/machine-learning/concept-onnx)
+- [Mary-Jo's tutorial to make a PowerApp that consumes an ML endpoint](https://github.com/madiepev/PowerAppAMLEndpoint)
 
 ## External data and compute
 - Learning path - [Data engineering with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-engineer-azure-databricks/)
